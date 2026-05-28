@@ -38,3 +38,5 @@ Voice Input (Whisper) → LLM Brain (Ollama) → Action Engine → System Execut
                                                        ↓
                                               Voice Output (pyttsx3)
 ```
+
+Fix_deployed_by_LADA_AI
